@@ -98,7 +98,7 @@ export default function NoNumberone() {
         <h1 className="text-xl md:text-3xl font-bold text-pink-500 mb-2">
           Will You Be Mine? 💞
         </h1>
-        <p className="text-base md:text-lg mb-6">It can't be real 😣</p>
+        <p className="text-base md:text-lg mb-6">Huh You says no ? 😣</p>
 
         <div className="flex justify-center gap-4">
           <button
